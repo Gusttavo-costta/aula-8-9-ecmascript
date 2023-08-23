@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.assunto {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 10px;
+    background-color: rgb(121, 179, 179);
+
+}
+
+.codigoDoAssunto {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(235, 243, 243);
+}
+
+#map {
+    padding: 30px;
+}

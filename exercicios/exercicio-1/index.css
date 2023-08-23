@@ -1,7 +1,7 @@
-*{
+* {
     padding: 0%;
     margin: 0%;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .assunto {
@@ -10,6 +10,10 @@
     margin: 10px auto;
     border-radius: 10px;
     background-color: rgb(121, 179, 179);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
 }
 
@@ -23,4 +27,10 @@
 
 #map {
     padding: 30px;
+}
+
+
+#textoDigitado {
+    width: 100%;
+
 }
